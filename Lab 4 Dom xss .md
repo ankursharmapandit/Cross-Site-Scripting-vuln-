@@ -1,4 +1,4 @@
-# 🛡️ DOM XSS in `innerHTML` Sink Using `location.search`
+# 🛡️lab-4 DOM XSS in `innerHTML` Sink Using `location.search`
 
 ## 📖 Introduction
 
