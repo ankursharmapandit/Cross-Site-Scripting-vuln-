@@ -1,4 +1,4 @@
-# 🛡️ lab-4 DOM-Based Vulnerability: DOM XSS Using `document.write` and `location.search`
+# 🛡️ lab-3 DOM-Based Vulnerability: DOM XSS Using `document.write` and `location.search`
 
 ## 📖 Introduction
 
